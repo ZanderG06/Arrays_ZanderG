@@ -1,0 +1,8 @@
+C:\Users\w0487679\Documents\Arrays_ZanderG\Arrays_ZanderG\bin\Debug\Arrays_ZanderG.exe.config
+C:\Users\w0487679\Documents\Arrays_ZanderG\Arrays_ZanderG\bin\Debug\Arrays_ZanderG.exe
+C:\Users\w0487679\Documents\Arrays_ZanderG\Arrays_ZanderG\bin\Debug\Arrays_ZanderG.pdb
+C:\Users\w0487679\Documents\Arrays_ZanderG\Arrays_ZanderG\obj\Debug\Arrays_ZanderG.csproj.AssemblyReference.cache
+C:\Users\w0487679\Documents\Arrays_ZanderG\Arrays_ZanderG\obj\Debug\Arrays_ZanderG.csproj.CoreCompileInputs.cache
+C:\Users\w0487679\Documents\Arrays_ZanderG\Arrays_ZanderG\obj\Debug\Arrays_ZanderG.exe
+C:\Users\w0487679\Documents\Arrays_ZanderG\Arrays_ZanderG\obj\Debug\Arrays_ZanderG.pdb
+C:\Users\w0487679\Documents\Arrays_ZanderG\Arrays_ZanderG\obj\Debug\Arrays_ZanderG.exe.config
