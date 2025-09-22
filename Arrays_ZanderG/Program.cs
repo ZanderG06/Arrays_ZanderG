@@ -25,6 +25,52 @@ namespace Arrays_ZanderG
             Fire(currentWeapon);
             
             ShowHUD();
+            Console.WriteLine($"Your weapon delt {weaponDamage[0]} damage");
+            Console.WriteLine("Press enter to reload");
+            Console.ReadKey();
+            Console.Clear();
+            Reload(currentWeapon);
+
+            currentWeapon = weaponNames[1];
+            ShowHUD();
+            Console.WriteLine($"You now have a {weaponNames[1]}");
+            Console.WriteLine("Press enter to fire");
+            Console.ReadKey();
+            Console.Clear();
+            Fire(currentWeapon);
+
+            ShowHUD();
+            Console.WriteLine($"Your weapon delt {weaponDamage[1]} damage");
+            Console.WriteLine("Press enter to reload");
+            Console.ReadKey();
+            Console.Clear();
+            Reload(currentWeapon);
+
+            currentWeapon = weaponNames[2];
+            ShowHUD();
+            Console.WriteLine($"You now have a {weaponNames[2]}");
+            Console.WriteLine("Press enter to fire");
+            Console.ReadKey();
+            Console.Clear();
+            Fire(currentWeapon);
+
+            ShowHUD();
+            Console.WriteLine($"Your weapon delt {weaponDamage[2]} damage");
+            Console.WriteLine("Press enter to reload");
+            Console.ReadKey();
+            Console.Clear();
+            Reload(currentWeapon);
+
+            currentWeapon = weaponNames[3];
+            ShowHUD();
+            Console.WriteLine($"You now have a {weaponNames[3]}");
+            Console.WriteLine("Press enter to fire");
+            Console.ReadKey();
+            Console.Clear();
+            Fire(currentWeapon);
+
+            ShowHUD();
+            Console.WriteLine($"Your weapon delt {weaponDamage[3]} damage");
             Console.WriteLine("Press enter to reload");
             Console.ReadKey();
             Console.Clear();
